@@ -1,0 +1,11 @@
+Golang book:
+	Base:
+		- https://chai2010.cn/advanced-go-programming-book/ch1-basic/ch1-01-genesis.html
+	Advanced:
+		- https://greyireland.gitbook.io/algorithm-pattern/
+
+docker 搭建：
+	https://www.cnblogs.com/qgc1995/archive/2018/08/29/9553572.html
+
+docker 命令：
+	http://www.docker.org.cn/dockerppt/106.html
