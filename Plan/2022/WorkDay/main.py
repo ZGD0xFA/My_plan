@@ -2,7 +2,7 @@
 import shutil
 import os
 
-class WorktoDesk:
+class WorktoCreateDocument:
     def __init__(self) -> None:
         self.path = os.getcwd()
 
@@ -38,7 +38,7 @@ class WorktoDesk:
             self.genera_dir(path)
 
 if __name__ == "__main__":
-    work = WorktoDesk()
+    work = WorktoCreateDocument()
     work.work()
 
     
